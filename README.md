@@ -9,7 +9,6 @@ The model is trained on the SQuAD dataset, which consists of context paragraphs,
 - Pre-trained model: bert-base-uncased  
 - Task: Extractive span prediction  
 - Number of epochs: 2  
-- Evaluation time: ~49 seconds (around 41 samples per second)
 
 ## Evaluation Results
 Performance after two epochs of fine-tuning:
